@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codegien
-- 👀 I’m interested in software development.
+- 👀 I’m a software engineer.
 - 🌱 I’m currently learning and building a fintech solution 
 - 💞️ I’m looking to collaborate on remote projects 
 - 📫 How to reach me twitter: @codegien1 IG: @codegien
