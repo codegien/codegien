@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on packet, a web3 project that enable user to own.<br>👯 I’m looking to collaborate on MERN project and Web3<br>🤝 I’m looking for help with Sponsorship and angel inverstors<br>🌱  I’m currently learning Nextjs and Devops<br>💬  Ask me about anything😂<br>⚡ Fun fact My codes a less buggy
+🔭 I’m currently working on packet, a web3 project that enable user to own.<br>👯 I’m looking to collaborate on MERN project and Web3<br>🤝 I’m looking for help with Sponsorship and angel inverstors<br>🌱  I’m currently learning Devops and Blockchain Development<br>💬  Ask me about anything😂<br>⚡ Fun fact My codes a less buggy
 
 
 ## 🌐 Socials:
