@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on packet, a web3 project that enable user to own.<br>👯 I’m looking to collaborate on MERN project and Web3<br>🤝 I’m looking for help with Sponsorship and angel inverstors<br>🌱  I’m currently learning Devops and Blockchain Development<br>💬  Ask me about anything😂<br>⚡ Fun fact My codes a less buggy
+🔭Engineering High-Performance, Commercial-Grade Solutions where Scale meets Security.<br>👯🤝 I am looking for the next "impossible" engineering challenge. Whether you are an investor looking for a technical co-founder or an executive scaling a global platform, let’s talk shop.
+<br>🌱  AI/ML, Backend, IoT/robotics & DevOps Strategist<br>💬  Ask me about anything😂<br>⚡ Fun fact My codes a less buggy
 
 
 ## 🌐 Socials:
